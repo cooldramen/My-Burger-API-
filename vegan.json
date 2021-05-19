@@ -1,0 +1,42 @@
+{
+    "burgers": [
+        {
+            "id": 0, 
+            "name": "Hello",
+            "restaurant": " Honest Burgers",
+            "web":"www.helloburgers.com",
+            "description": "Amazinnnng burgers",
+            "ingredients": ["beed","american cheese","burger sauce","french mustard", "ketchup"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"75",
+                    "line1":"Venn Street",
+                    "line2":"Clapham",
+                    "postalcode":"H4L 2M3",
+                    "country":"Canada"
+                }
+            ]
+            },
+            {
+                
+            "id": 1, 
+            "name": "Steak House",
+            "restaurant": " Anything Steak",
+            "web":"www.anythingsteak.com",
+            "description": "Spicy Vegan steaks",
+            "ingredients": ["vegan feta","pepperjack","vegan caviar","truffle", "ketchup"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"7775",
+                    "line1":"Guy Street",
+                    "line2":"Montreal",
+                    "postalcode":"H4L 2M3",
+                    "country":"Canada"
+            }
+
+            ]
+    }
+]
+}
